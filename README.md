@@ -11,16 +11,16 @@ Developed a fully functional social media application from scratch, replicating 
 
 # Features
 - User Authentication
-- - Implemented complete user registration and login workflows using JWT for secure authentication.
+  - Implemented complete user registration and login workflows using JWT for secure authentication.
 - Dark/Light Mode
-- - Built a toggle for Dark and Light modes, enhancing user experience.
+  - Built a toggle for Dark and Light modes, enhancing user experience.
 - Post Management
-- - Enabled users to create, edit, and delete posts (including images and captions).
+  - Enabled users to create, edit, and delete posts (including images and captions).
 - - Users can like/dislike and comment on posts.
 - Friendship Features
-- - Users can add or remove friends.
+  - Users can add or remove friends.
 - Responsive Design
-- - Ensured the application is fully responsive across different devices, from small screens to large screens.
+  - Ensured the application is fully responsive across different devices, from small screens to large screens.
 
 # Front-End
 - Leveraged React with Redux for state management.
